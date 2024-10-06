@@ -17,8 +17,8 @@ I strongly believe, whatever area of security testing you are working on, applic
 - This will help you fight the urge to give up, keep your confidence up. The BIGGEST fight you have in bug hunting is with yourself
 
 
-**4. Not everything is a textbook vulnerability**
-- While thankful of the several projects out there that explain vulnerabilities, when it comes to replicating that process, it will often fail.
+**4. It Rarely is a textbook vulnerability**
+- While thankful of the several projects out there that explain vulnerabilities, when it comes to replicating that process/bug, it will often fail.
 - Why? Bugs are not generic. There is usually some subtle variation from app to app which if you have not FAILED enough, you won't know to recognize.
 
 
@@ -49,7 +49,11 @@ I strongly believe, whatever area of security testing you are working on, applic
 	- Keep everything documented. 
 	- Try different writing styles overtime
 
-**9. Its Hard.**
+**9. Its always Hard.**
 - Everyone looking for common bugs, of course its hard
 - Go for the bugs which are lesser known, high severity and most people wont have the patience to learn/find them.
 - Getting ready to fail, Master a attack vector and you are garanteed to win sometime in the future - one way or another.
+
+**10. Social Media is the best place to feel like a failure**
+- If you want to feel like a failure, read success stories with a negative mindset
+- Success stories are made to inspire in a positive constructive way. If you read a success story and you feel dampened, depressed, down... chances are you need to change your mindset to be more constructive.  
