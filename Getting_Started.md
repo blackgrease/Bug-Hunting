@@ -31,10 +31,10 @@ I strongly believe, whatever area of security testing you are working on, applic
 - Dont hide from the feeling. Recognize it. Acknowledge it. And Push through. You only lose by not sarting. If you got >=0 bugs, you still learn something new.
 
 **7. Ego doesn't help**
-	- The bugger your ego, the greater hit yo'll take when your can't find anything. 
-	- enjoy the small wins. Slow success, builds character.
-	- You learn real Mastery, patience, gratitude, self-discpline from moving slow low. 
-	- Ego will have you hanging dry, burnt out and/or a mental wreck after a few months of 0 bugs.
+- The bugger your ego, the greater hit yo'll take when your can't find anything. 
+- enjoy the small wins. Slow success, builds character.
+- You learn real Mastery, patience, gratitude, self-discpline from moving slow low. 
+- Ego will have you hanging dry, burnt out and/or a mental wreck after a few months of 0 bugs.
 
 **9. "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."**
 - In reality, you wont master everything in one go
@@ -43,9 +43,10 @@ I strongly believe, whatever area of security testing you are working on, applic
 - You only get good at what you fail at several times.
 
 **8. You will forget. WRITE**
-	- Even if something seems meaningless in the moment, make a side note...in a way that a future version of yourself will read and understand (I'm guilty of this. Several notes that were correct but reading them again after a while, they made no-sense. Probably missed a few bugs)
-	- Keep everything documented. 
-	- Try different writing styles overtime
+- Even if something seems meaningless in the moment, make a side note...in a way that a future version of yourself will read and understand
+- I'm guilty of this. Several notes that were correct but reading them again after a while, they made no-sense. Probably missed a few bugs.
+- Keep everything documented. 
+- Try different writing styles overtime
 
 **9. Its always Hard.**
 - Everyone looking for common bugs, of course its hard
