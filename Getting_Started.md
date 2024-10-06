@@ -16,16 +16,14 @@ I strongly believe, whatever area of security testing you are working on, applic
 - Imposter Syndrome is real. Understand its patterns and learn to recognize the thought process that is associated with it. 
 - This will help you fight the urge to give up, keep your confidence up. The BIGGEST fight you have in bug hunting is with yourself
 
-
-**4. It Rarely is a textbook vulnerability**
-- While thankful of the several projects out there that explain vulnerabilities, when it comes to replicating that process/bug, it will often fail.
-- Why? Bugs are not generic. There is usually some subtle variation from app to app which if you have not FAILED enough, you won't know to recognize.
-
-
-**5. Speak Life to yourself**
+**4. Speak Life to yourself**
 - "The tongue has the power of life and death" - Proverbs 18:21
 - Speak positive, confident, care words to yourself. No matter how hard current wall is in front of you.
 - You got this far right, why cant you make it further
+
+**5. It Rarely is a textbook vulnerability**
+- While thankful of the several projects out there that explain vulnerabilities, when it comes to replicating that process/bug, it will often fail.
+- Why? Bugs are not generic. There is usually some subtle variation from app to app which if you have not FAILED enough, you won't know to recognize
 
 **6. Starting is always the biggest Hurdle**
 - Starting will always feel overwhelming. Especially if you decide to look at a big company
