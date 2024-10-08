@@ -8,6 +8,5 @@ The more I grow, so does this repository. Nothing here will be theoretical and n
 - Upcoming Bugs: REST/GraphQL API DoS
 - Upcoming Bugs: BFLA/BOLA
 - Upcoming Bugs: JWTs
-- 
 
 **Disclaminer**: This information is provided strictly for educational purposes and legal security research. Any use of this information to engage in unauthorized or malicious activities is illegal and unethical. You are solely responsible for your actions. 
